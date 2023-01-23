@@ -12,5 +12,110 @@
     "title": "dancmann.github.io",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "qmd/cv.html",
+    "href": "qmd/cv.html",
+    "title": "Dan C. Mann, PhD",
+    "section": "",
+    "text": "2019 PhD degree in Linguistics, The Graduate Center of the City University of New York.\n2012 MA in TESOL and Applied Linguistics, Teachers College: Columbia University, New York, USA 2008 BA in History and Spanish, University of Central Arkansas, USA"
+  },
+  {
+    "objectID": "qmd/cv.html#positions-held",
+    "href": "qmd/cv.html#positions-held",
+    "title": "Dan C. Mann, PhD",
+    "section": "POSITIONS HELD",
+    "text": "POSITIONS HELD\n12/2020-Present | Post-Doctoral Researcher in Computational Behavioral Science, University of Veterinary Medicine, Vienna, Austria | Host lab: Leonida Fusani.\n10/2019- 07/2020 | Post-Doctoral Researcher | University of Vienna, Austria | Host lab: W. Tecumseh Fitch.\n2013-2016 | Lecturer | Brooklyn College, New York, USA.\n2012-2019 | PhD Candidate, The Graduate Center of the City University of New York, New York, USA | Supervision: Juliette Blevins, David C. Lahti, Marisa Hoeschele, Michael I. Mandel."
+  },
+  {
+    "objectID": "qmd/cv.html#courses-taught",
+    "href": "qmd/cv.html#courses-taught",
+    "title": "Dan C. Mann, PhD",
+    "section": "COURSES TAUGHT",
+    "text": "COURSES TAUGHT"
+  },
+  {
+    "objectID": "qmd/cv.html#publications",
+    "href": "qmd/cv.html#publications",
+    "title": "Dan C. Mann, PhD",
+    "section": "PUBLICATIONS",
+    "text": "PUBLICATIONS"
+  },
+  {
+    "objectID": "qmd/cv.html#awards",
+    "href": "qmd/cv.html#awards",
+    "title": "Dan C. Mann, PhD",
+    "section": "AWARDS",
+    "text": "AWARDS"
+  },
+  {
+    "objectID": "qmd/research.html",
+    "href": "qmd/research.html",
+    "title": "Dan C. Mann, PhD",
+    "section": "",
+    "text": "I received a Marie Curie Individual Fellowship to continue the research I started during my PhD. The primary goal of the “Segments in Animal Vocalizations”, or “SEGVOC”, project is to explore the level of the segment in non-human animals. Because segment research is central to our understanding of human language, any comparative claims about the uniqueness of humans must, at least, consider this unit level in non-humans. Because segments have been largely ignored in animal acoustic communication, the SEGVOC project has great potential for novel research insights and projects. Within this project, the vocalizations of multiple species will be analyzed in order to assess how well segmental models fit animal communication systems. We will also delve deeper into the vocalizations of the budgerigar – a species where we have already fit a segmental model – in order to assess how much explanatory power we have gained and to address questions related to non-human animal phonology (the rules, patterns, production, and perception of segments).\n\n\n\nDiscrete and Continuous Signals. In writing (a), the boundaries between units are relatively clear: smaller units like syllables or segments are divided by small amounts of space, while larger units, like words, are divided by larger spacing. Boundaries in speech, however, are less clear, the phrase in (b), “the zealous sailors sail all seven seas and all four oceans”, contains no silent pauses. The fictional language in Arrival (c) is similarly difficult to divide. Should non-human animal vocalizations (d) be analyzed as (a)? Or as (b) and (c)? Using silent intervals, (d) would have 4-5 units, depending on the length of silence used to divide the signal. Using rapid acoustic transitions, the number is much higher. The latter type of analysis is more difficult to carry out but is potentially far more informative.est.\n\n\n\n\nMy colleagues and I have a few papers which, in part, lay out some of the rationale for the segmental approach to the study of animal vocal behavior.\nSegmental units in nonhuman animal vocalization as a window into meaning, structure, and the evolution of language.\nDan C. Mann, Marisa Hoeschele. Animal Behavior and Cognition. 2020.\nHuman vocalizations are made up of meaningless units or segments that are combined to create meaningful words and phrases. Jackendoff (1999) hypothesized that the ability of humans to combine segments together is necessitated by the fact that we need to express an almost limitless amount of symbolic or referential information that could occur in a different time or space. So far, there is very little evidence for this symbolic and referentiality meaning in animal vocalizations. Furthermore, segments have also rarely been identified in the animal kingdom, with units divided by intakes of breaths taken as the most fundamental. However, if we are to take Jackendoff’s hypothesis seriously, we must do more detailed analyses at the level of the segment (subunits within a single breath) in animal vocalizations. Here we discuss the current status of animal vocal communication and its relation to Jackendoff’s hypothesis. We propose further research into segmental units in animal vocalizations is a key next step to determining the evolution of human vocal behavior.\nLessons learned in animal acoustic cognition through comparisons with humans.\nMarisa Hoeschele, Bernhard Wagner, Dan C. Mann. Animal Cognition. 2022\nAbstract: Humans are an interesting subject of study in comparative cognition. While humans have a lot of anecdotal and subjective knowledge about their own minds and behaviors, researchers tend not to study humans the way they study other species. Instead, comparisons between humans and other animals tend to be based on either assumptions about human behavior and cognition, or very different testing methods. Here we emphasize the importance of using insider knowledge about humans to form interesting research questions about animal cognition while simultaneously stepping back and treating humans like just another species as if one were an alien researcher. This perspective is extremely helpful to identify what aspects of cognitive processes may be interesting and relevant across the animal kingdom. Here we outline some examples of how this objective human-centric approach has helped us to move forward knowledge in several areas of animal acoustic cognition (rhythm, harmonicity, and vocal units). We describe how this approach works, what kind of benefits we obtain, and how it can be applied to other areas of animal cognition. While an objective human-centric approach is not useful when studying traits that do not occur in humans (e.g., magnetic spatial navigation), it can be extremely helpful when studying traits that are relevant to humans (e.g., communication). Overall, we hope to entice more people working in animal cognition to use a similar approach to maximize the benefits of being part of the animal kingdom while maintaining a detached and scientific perspective on the human species.\n\n\n\n\n\n\nUniversal principles underlying segmental structures in parrot song and human speech\nDan C. Mann, W. Tecumseh Fitch, Hsiao-Wei Tu, Marisa Hoeschele. Scientific Reports. 2021.\nAbstract: Despite the diversity of human languages, certain linguistic patterns are remarkably consistent across human populations. While syntactic universals receive more attention, there is stronger evidence for universal patterns in the inventory and organization of segments: units that are separated by rapid acoustic transitions which are used to build syllables, words, and phrases. Crucially, if an alien researcher investigated spoken human language how we analyze non-human communication systems, many of the phonological regularities would be overlooked, as the majority of analyses in non-humans treat breath groups, or “syllables” (units divided by silent inhalations), as the smallest unit. Here, we introduce a novel segment-based analysis that reveals patterns in the acoustic output of budgerigars, a vocal learning parrot species, that match universal phonological patterns well-documented in humans. We show that song in four independent budgerigar populations is comprised of consonant- and vowel-like segments. Furthermore, the organization of segments within syllables is not random. As in spoken human language, segments at the start of a vocalization are more likely to be consonant-like and segments at the end are more likely to be longer, quieter, and lower in fundamental frequency. These results provide a new foundation for empirical investigation of language-like abilities in other species."
+  },
+  {
+    "objectID": "qmd/index.html",
+    "href": "qmd/index.html",
+    "title": "Dan C. Mann, PhD",
+    "section": "",
+    "text": "Welcome to my website! I’m a researcher whose work focuses on comparative vocal behavior. That is, what are the similarities and differences in how animals - including humans! - produce, perceive, and use sounds. My background is in linguistics, but I’ve been working in biology since 2015. You can find out more about my research here.\nI also love data science and using computational tools to help us better understand our world. I work as a data science consultant in the Fusani Lab and I teach statistics and R programming for the Department of Cognitive Biology at the University of Vienna."
+  },
+  {
+    "objectID": "qmd/index.html#experience",
+    "href": "qmd/index.html#experience",
+    "title": "Dan C. Mann, PhD",
+    "section": "Experience",
+    "text": "Experience\nFusani Lab, University of Veterinary Medicine, Vienna | Postdoctoral Researcher in Computational Biology | 2019 - Present\nAcoustic Research Institute, Austrian Academy of Sciences | Marie Curie Postdoctoral Fellow | 2021 - Present"
+  },
+  {
+    "objectID": "qmd/index.html#teaching",
+    "href": "qmd/index.html#teaching",
+    "title": "Dan C. Mann, PhD",
+    "section": "Teaching",
+    "text": "Teaching\nDepartment of Cognitive Biology, University of Vienna | Methods in Cognitive Biology: Statistics and R | 2019 - Present\nEnglish Program, Brooklyn College | Linguistics/Sociolinguistics/Historical Linguisitics | 2013 - 2016"
+  },
+  {
+    "objectID": "qmd/index.html#education",
+    "href": "qmd/index.html#education",
+    "title": "Dan C. Mann, PhD",
+    "section": "Education",
+    "text": "Education\nThe Graduate Center of the City Univerisity of New York | New York, NY, USA\nPhD in Linguistics | 2019\nTeachers College, Columbia University | New York, NY, USA\nMA in Applied Linguistics | 2012\nUniversity of Central Arkansas | Conway, AR, USA\nBA in History & Spanish | 2008"
+  },
+  {
+    "objectID": "qmd/publications.html",
+    "href": "qmd/publications.html",
+    "title": "Dan C. Mann, PhD",
+    "section": "",
+    "text": "Lessons learned in animal acoustic cognition through comparisons with humans.\nMarisa Hoeschele, Bernhard Wagner, Dan C. Mann. Animal Cognition. 2022\nAbstract: Humans are an interesting subject of study in comparative cognition. While humans have a lot of anecdotal and subjective knowledge about their own minds and behaviors, researchers tend not to study humans the way they study other species. Instead, comparisons between humans and other animals tend to be based on either assumptions about human behavior and cognition, or very different testing methods. Here we emphasize the importance of using insider knowledge about humans to form interesting research questions about animal cognition while simultaneously stepping back and treating humans like just another species as if one were an alien researcher. This perspective is extremely helpful to identify what aspects of cognitive processes may be interesting and relevant across the animal kingdom. Here we outline some examples of how this objective human-centric approach has helped us to move forward knowledge in several areas of animal acoustic cognition (rhythm, harmonicity, and vocal units). We describe how this approach works, what kind of benefits we obtain, and how it can be applied to other areas of animal cognition. While an objective human-centric approach is not useful when studying traits that do not occur in humans (e.g., magnetic spatial navigation), it can be extremely helpful when studying traits that are relevant to humans (e.g., communication). Overall, we hope to entice more people working in animal cognition to use a similar approach to maximize the benefits of being part of the animal kingdom while maintaining a detached and scientific perspective on the human species."
+  },
+  {
+    "objectID": "qmd/publications.html#section-1",
+    "href": "qmd/publications.html#section-1",
+    "title": "Dan C. Mann, PhD",
+    "section": "2021",
+    "text": "2021\nUniversal principles underlying segmental structures in parrot song and human speech\nDan C. Mann, W. Tecumseh Fitch, Hsiao-Wei Tu, Marisa Hoeschele. Scientific Reports. 2021.\nAbstract: Despite the diversity of human languages, certain linguistic patterns are remarkably consistent across human populations. While syntactic universals receive more attention, there is stronger evidence for universal patterns in the inventory and organization of segments: units that are separated by rapid acoustic transitions which are used to build syllables, words, and phrases. Crucially, if an alien researcher investigated spoken human language how we analyze non-human communication systems, many of the phonological regularities would be overlooked, as the majority of analyses in non-humans treat breath groups, or “syllables” (units divided by silent inhalations), as the smallest unit. Here, we introduce a novel segment-based analysis that reveals patterns in the acoustic output of budgerigars, a vocal learning parrot species, that match universal phonological patterns well-documented in humans. We show that song in four independent budgerigar populations is comprised of consonant- and vowel-like segments. Furthermore, the organization of segments within syllables is not random. As in spoken human language, segments at the start of a vocalization are more likely to be consonant-like and segments at the end are more likely to be longer, quieter, and lower in fundamental frequency. These results provide a new foundation for empirical investigation of language-like abilities in other species."
+  },
+  {
+    "objectID": "qmd/publications.html#section-2",
+    "href": "qmd/publications.html#section-2",
+    "title": "Dan C. Mann, PhD",
+    "section": "2020",
+    "text": "2020\nHouse finches learn canary trills\n[Note! Unfortunately, this paper is not open access. Send me an email if you would like access.]\nDan C. Mann, David C. Lahti, Laura Waddick, Paul C. Mundinger. Bioacoustics. 2020.\nAbstract: We analyse data from a cross-fostering experiment in which house finches were fostered by canary parents. Some individuals received canary song input, while others received no input, after a period of masking noise. We compare audio recordings of songs by these individuals to each other and to species-typical house finch and canary songs. Canary-tutored house finches learn to trill as part of their song. Since trills are not present in typical house finch song, naturally occurring song patterns underestimate what a species is capable of learning and producing. These results highlight a potential avenue for the origin of novel syntax in songbirds.\nSegmental units in nonhuman animal vocalization as a window into meaning, structure, and the evolution of language.\nDan C. Mann, Marisa Hoeschele. Animal Behavior and Cognition. 2020.\nAbstract: Human vocalizations are made up of meaningless units or segments that are combined to create meaningful words and phrases. Jackendoff (1999) hypothesized that the ability of humans to combine segments together is necessitated by the fact that we need to express an almost limitless amount of symbolic or referential information that could occur in a different time or space. So far, there is very little evidence for this symbolic and referentiality meaning in animal vocalizations. Furthermore, segments have also rarely been identified in the animal kingdom, with units divided by intakes of breaths taken as the most fundamental. However, if we are to take Jackendoff’s hypothesis seriously, we must do more detailed analyses at the level of the segment (subunits within a single breath) in animal vocalizations. Here we discuss the current status of animal vocal communication and its relation to Jackendoff’s hypothesis. We propose further research into segmental units in animal vocalizations is a key next step to determining the evolution of human vocal behavior."
+  },
+  {
+    "objectID": "qmd/publications.html#section-3",
+    "href": "qmd/publications.html#section-3",
+    "title": "Dan C. Mann, PhD",
+    "section": "2019",
+    "text": "2019\nOctave equivalence perception is not linked to vocal mimicry: budgerigars fail standardized operant tests for octave equivalence\nBernhard Wagner, Dan C. Mann, Shahrzad Afroozeh, Gabriel Staubmann, and Marisa Hoeschele. Behaviour. 2019.\nAbstract: Octave equivalence describes the perceived similarity of notes separated by an octave or a doubling in frequency. In humans, octave equivalence perception is used in vocal learning, enabling young children to approximate adult sounds where the pitch lies outside of their vocal range. This makes sense because the octave is also the first harmonic of any tonal sound including the human voice. We hypothesized that non-human animals may also need octave equivalence perception in vocal mimicry, the copying of other species or environmental sounds, to approximate sounds where the pitch lies outside their vocal range. Thus, in the current study, we tested budgerigars (Melopsittacus undulatus), a vocal mimicking species, for octave equivalence perception. Budgerigars were trained and tested in a go/no-go operant task previously verified in humans. Budgerigars did not show evidence of octave equivalence perception. This result suggests that vocal-mimicking does not necessarily facilitate or presuppose octave equivalence perception.\nStatistical parametric synthesis of budgerigar songs\nLorenz Gutscher, Michael Pucher, Carina Lozo, Marisa Hoeschele, Daniel C Mann. Proc. 10th ISCA Speech Synthesis Workshop. 2019.\nAbstract: In this paper we present the synthesis of budgerigar songs with Hidden Markov Models (HMMs) and the HMM-based Speech Synthesis System (HTS). Budgerigars can produce complex and diverse sounds that are difficult to categorize. We adapted techniques that are commonly used in the area of speech synthesis so that we can use them for the synthesis of budgerigar songs. To segment the recordings, the songs are broken down into phrases, which are sounds separated by silence. Complex phrases furthermore can be subdivided into smaller units and then be clustered to identify recurring elements. These element categories along with additional contextual information are used together to enhance the training and synthesis. Overall, the aim of the process is to offer an interface that generates new sequences and compositions of bird songs based on user input, consisting of the desired song structure and contextual information. Finally, an objective evaluation comparing the synthesized output to the natural recording is performed, and a subjective evaluation with human listeners shows that they prefer resynthesized over natural recordings and that they perceive no significant differences in terms of naturalness between natural, resynthesized, and synthesized versions."
+  },
+  {
+    "objectID": "qmd/publications.html#section-4",
+    "href": "qmd/publications.html#section-4",
+    "title": "Dan C. Mann, PhD",
+    "section": "2012",
+    "text": "2012\nChilean clitic reduplication: Implications for morphology and syntax\nDaniel Mann. Studies in Applied Linguistics and TESOL. 2012.\nAbstract: This paper explores the phenomenon of clitic duplication in Spanish as seen in the sentence Te voy a pegarte (‘I’m going to hit you’). Structures like these have several interesting implications for the Spanish language and generativist syntax. Neverthelesss, clitic duplication has not been extensively examined in the generativist literature. This working paper will critically review the small body of existing work on clitic reduplication. Furthermore, based on data gathered from native speakers of Chilean Spanish, it will provide some preliminary evidence for strengthening the argument that Spanish clitics are object agreement morphemes. Ultimately, this paper aims to provide a base to further pursue the topic of Chilean clitic reduplication to make more theoretically sound claims, provide more robust empirical data, and to propose a more formalized argument of the phenomena. Pedagogical implications of the argument are also considered."
   }
 ]

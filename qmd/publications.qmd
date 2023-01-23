@@ -1,0 +1,115 @@
+ 
+## 2022
+
+[**Lessons learned in animal acoustic cognition through comparisons with humans.**](https://link.springer.com/article/10.1007/s10071-022-01735-0)  
+
+Marisa Hoeschele, Bernhard Wagner, **Dan C. Mann**. 
+*Animal Cognition*.
+2022
+
+**Abstract**: 
+Humans are an interesting subject of study in comparative cognition. 
+While humans have a lot of anecdotal and subjective knowledge about their own minds and behaviors, researchers tend not to study humans the way they study other species. 
+Instead, comparisons between humans and other animals tend to be based on either assumptions about human behavior and cognition, or very different testing methods.
+ Here we emphasize the importance of using insider knowledge about humans to form interesting research questions about animal cognition while simultaneously stepping back and treating humans like just another species as if one were an alien researcher. 
+This perspective is extremely helpful to identify what aspects of cognitive processes may be interesting and relevant across the animal kingdom.
+ Here we outline some examples of how this objective human-centric approach has helped us to move forward knowledge in several areas of animal acoustic cognition (rhythm, harmonicity, and vocal units).
+ We describe how this approach works, what kind of benefits we obtain, and how it can be applied to other areas of animal cognition.
+ While an objective human-centric approach is not useful when studying traits that do not occur in humans (e.g., magnetic spatial navigation), it can be extremely helpful when studying traits that are relevant to humans (e.g., communication). Overall, we hope to entice more people working in animal cognition to use a similar approach to maximize the benefits of being part of the animal kingdom while maintaining a detached and scientific perspective on the human species.
+
+
+## 2021  
+
+ [**Universal principles underlying segmental structures in parrot song and human speech**](https://www.nature.com/articles/s41598-020-80340-y)  
+
+**Dan C. Mann**, W. Tecumseh Fitch, Hsiao-Wei Tu, Marisa Hoeschele. 
+*Scientific Reports.*
+2021. 
+
+**Abstract:** 
+Despite the diversity of human languages, certain linguistic patterns are remarkably consistent across human populations. 
+While syntactic universals receive more attention, there is stronger evidence for universal patterns in the inventory and organization of segments: units that are separated by rapid acoustic transitions which are used to build syllables, words, and phrases. 
+Crucially, if an alien researcher investigated spoken human language how we analyze non-human communication systems, many of the phonological regularities would be overlooked, as the majority of analyses in non-humans treat breath groups, or “syllables” (units divided by silent inhalations), as the smallest unit. 
+Here, we introduce a novel segment-based analysis that reveals patterns in the acoustic output of budgerigars, a vocal learning parrot species, that match universal phonological patterns well-documented in humans. 
+We show that song in four independent budgerigar populations is comprised of consonant- and vowel-like segments. 
+Furthermore, the organization of segments within syllables is not random. As in spoken human language, segments at the start of a vocalization are more likely to be consonant-like and segments at the end are more likely to be longer, quieter, and lower in fundamental frequency. 
+These results provide a new foundation for empirical investigation of language-like abilities in other species.  
+
+## 2020
+
+[**House finches learn canary trills**](https://www.tandfonline.com/doi/abs/10.1080/09524622.2020.1718551?journalCode=tbio20)  
+[Note! Unfortunately, this paper is not open access. Send me an [email](mailto:danmann23@gmail.com) if you would like access.]
+
+**Dan C. Mann**, David C. Lahti, Laura Waddick, Paul C. Mundinger. 
+*Bioacoustics.*
+2020.
+
+**Abstract:** We analyse data from a cross-fostering experiment in which house finches were fostered by canary parents. 
+Some individuals received canary song input, while others received no input, after a period of masking noise. 
+We compare audio recordings of songs by these individuals to each other and to species-typical house finch and canary songs. 
+Canary-tutored house finches learn to trill as part of their song. 
+Since trills are not present in typical house finch song, naturally occurring song patterns underestimate what a species is capable of learning and producing. 
+These results highlight a potential avenue for the origin of novel syntax in songbirds.  
+
+
+[**Segmental units in nonhuman animal vocalization as a window into meaning, structure, and the evolution of language.**](https://www.researchgate.net/profile/Marisa-Hoeschele/publication/341107536_Segmental_units_in_nonhuman_animal_vocalization_as_a_window_into_meaning_structure_and_the_evolution_of_language/links/5eb43482299bf152d6a447d1/Segmental-units-in-nonhuman-animal-vocalization-as-a-window-into-meaning-structure-and-the-evolution-of-language.pdf)  
+
+**Dan C. Mann**, Marisa Hoeschele. 
+*Animal Behavior and Cognition.*
+2020. 
+
+
+**Abstract:** Human vocalizations are made up of meaningless units or segments that are combined to create meaningful words and phrases.
+ Jackendoff (1999) hypothesized that the ability of humans to combine segments together is necessitated by the fact that we need to express an almost limitless amount of symbolic or referential information that could occur in a different time or space.
+ So far, there is very little evidence for this symbolic and referentiality meaning in animal vocalizations.
+ Furthermore, segments have also rarely been identified in the animal kingdom, with units divided by intakes of breaths taken as the most fundamental.
+ However, if we are to take Jackendoff’s hypothesis seriously, we must do more detailed analyses at the level of the segment (subunits within a single breath) in animal vocalizations. 
+Here we discuss the current status of animal vocal communication and its relation to Jackendoff’s hypothesis.
+ We propose further research into segmental units in animal vocalizations is a key next step to determining the evolution of human vocal behavior.  
+
+## 2019  
+  
+[**Octave equivalence perception is not linked to vocal mimicry: budgerigars fail standardized operant tests for octave equivalence**](https://brill.com/view/journals/beh/156/5-8/article-p479_4.xml)  
+
+Bernhard Wagner, **Dan C. Mann**, Shahrzad Afroozeh, Gabriel Staubmann, and Marisa Hoeschele. 
+*Behaviour.*
+2019.
+
+**Abstract:** Octave equivalence describes the perceived similarity of notes separated by an octave or a doubling in frequency. 
+In humans, octave equivalence perception is used in vocal learning, enabling young children to approximate adult sounds where the pitch lies outside of their vocal range. 
+This makes sense because the octave is also the first harmonic of any tonal sound including the human voice. 
+We hypothesized that non-human animals may also need octave equivalence perception in vocal mimicry, the copying of other species or environmental sounds, to approximate sounds where the pitch lies outside their vocal range. 
+Thus, in the current study, we tested budgerigars (Melopsittacus undulatus), a vocal mimicking species, for octave equivalence perception. 
+Budgerigars were trained and tested in a go/no-go operant task previously verified in humans. Budgerigars did not show evidence of octave equivalence perception. 
+This result suggests that vocal-mimicking does not necessarily facilitate or presuppose octave equivalence perception.
+
+[**Statistical parametric synthesis of budgerigar songs**](https://www.researchgate.net/profile/Michael-Pucher-2/publication/335948361_Statistical_parametric_synthesis_of_budgerigar_songs/links/5e15f9f692851c8364bba970/Statistical-parametric-synthesis-of-budgerigar-songs.pdf)  
+
+Lorenz Gutscher, Michael Pucher, Carina Lozo, Marisa Hoeschele, **Daniel C Mann**.
+*Proc. 10th ISCA Speech Synthesis Workshop.*
+2019.
+
+**Abstract**: In this paper we present the synthesis of budgerigar songs with Hidden Markov Models (HMMs) and the HMM-based Speech Synthesis System (HTS). 
+Budgerigars can produce complex and diverse sounds that are difficult to categorize. 
+We adapted techniques that are commonly used in the area of speech synthesis so that we can use them for the synthesis of budgerigar songs. 
+To segment the recordings, the songs are broken down into phrases, which are sounds separated by silence. 
+Complex phrases furthermore can be subdivided into smaller units and then be clustered to identify recurring elements. 
+These element categories along with additional contextual information are used together to enhance the training and synthesis. 
+Overall, the aim of the process is to offer an interface that generates new sequences and compositions of bird songs based on user input, consisting of the desired song structure and contextual information. 
+Finally, an objective evaluation comparing the synthesized output to the natural recording is performed, and a subjective evaluation with human listeners shows that they prefer resynthesized over natural recordings and that they perceive no significant differences in terms of naturalness between natural, resynthesized, and synthesized versions.
+
+## 2012  
+
+[**Chilean clitic reduplication: Implications for morphology and syntax**](https://journals.library.columbia.edu/index.php/SALT/article/view/1358/420)  
+
+**Daniel Mann**.
+*Studies in Applied Linguistics and TESOL.* 
+2012.
+
+**Abstract**: This paper explores the phenomenon of clitic duplication in Spanish as seen in the sentence Te voy a pegarte (‘I’m going to hit you’). 
+Structures like these have several interesting implications for the Spanish language and generativist syntax. 
+Neverthelesss, clitic duplication has not been extensively examined in the generativist literature. 
+This working paper will critically review the small body of existing work on clitic reduplication. 
+Furthermore, based on data gathered from native speakers of Chilean Spanish, it will provide some preliminary evidence for strengthening the argument that Spanish clitics are object agreement morphemes. 
+Ultimately, this paper aims to provide a base to further pursue the topic of Chilean clitic reduplication to make more theoretically sound claims, provide more robust empirical data, and to propose a more formalized argument of the phenomena. 
+Pedagogical implications of the argument are also considered.

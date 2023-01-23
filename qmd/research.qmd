@@ -1,0 +1,87 @@
+
+## Research
+
+
+### Ongoing Projects  
+
+### Segmental approach to animal vocal behavior
+
+I received a Marie Curie Individual Fellowship to continue the research I started during my PhD. 
+The primary goal of the "Segments in Animal Vocalizations", or "SEGVOC", project is to explore the level of the segment in non-human animals.
+ Because segment research is central to our understanding of human language, any comparative claims about the uniqueness of humans must, at least, consider this unit level in non-humans.
+ Because segments have been largely ignored in animal acoustic communication, the SEGVOC project has great potential for novel research insights and projects.
+ Within this project, the vocalizations of multiple species will be analyzed in order to assess how well segmental models fit animal communication systems.
+ We will also delve deeper into the vocalizations of the budgerigar – a species where we have already fit a segmental model – in order to assess how much explanatory power we have gained and to address questions related to non-human animal phonology (the rules, patterns, production, and perception of segments).
+
+<figure>
+  <img src="../img/segvoc.png" title="Communication and negative space." alt="A drawing of human writing, human vocalizations, budgerigar vocalizations, and an alien symbol." width="100%">
+  <figcaption>**Discrete and Continuous Signals.** In writing (a), the boundaries between units are relatively clear: smaller units like syllables or segments are divided by small amounts of space, while larger units, like words, are divided by larger spacing. 
+Boundaries in speech, however, are less clear, the phrase in (b), “the zealous sailors sail all seven seas and all four oceans”, contains no silent pauses. 
+The fictional language in Arrival (c) is similarly difficult to divide. 
+Should non-human animal vocalizations (d) be analyzed as (a)? Or as (b) and (c)? Using silent intervals, (d) would have 4-5 units, depending on the length of silence used to divide the signal. 
+Using rapid acoustic transitions, the number is much higher. 
+The latter type of analysis is more difficult to carry out but is potentially far more informative.est.</figcaption>
+</figure>
+
+##### Overview  
+
+My colleagues and I have a few papers which, in part, lay out some of the rationale for the segmental approach to the study of animal vocal behavior. 
+
+ 
+[**Segmental units in nonhuman animal vocalization as a window into meaning, structure, and the evolution of language.**](https://www.researchgate.net/profile/Marisa-Hoeschele/publication/341107536_Segmental_units_in_nonhuman_animal_vocalization_as_a_window_into_meaning_structure_and_the_evolution_of_language/links/5eb43482299bf152d6a447d1/Segmental-units-in-nonhuman-animal-vocalization-as-a-window-into-meaning-structure-and-the-evolution-of-language.pdf)  
+
+Dan C. Mann, Marisa Hoeschele. 
+*Animal Behavior and Cognition.*
+2020. 
+
+
+Human vocalizations are made up of meaningless units or segments that are combined to create meaningful words and phrases.
+ Jackendoff (1999) hypothesized that the ability of humans to combine segments together is necessitated by the fact that we need to express an almost limitless amount of symbolic or referential information that could occur in a different time or space.
+ So far, there is very little evidence for this symbolic and referentiality meaning in animal vocalizations.
+ Furthermore, segments have also rarely been identified in the animal kingdom, with units divided by intakes of breaths taken as the most fundamental.
+ However, if we are to take Jackendoff’s hypothesis seriously, we must do more detailed analyses at the level of the segment (subunits within a single breath) in animal vocalizations. 
+Here we discuss the current status of animal vocal communication and its relation to Jackendoff’s hypothesis.
+ We propose further research into segmental units in animal vocalizations is a key next step to determining the evolution of human vocal behavior.  
+
+
+
+[**Lessons learned in animal acoustic cognition through comparisons with humans.**](https://link.springer.com/article/10.1007/s10071-022-01735-0)  
+
+Marisa Hoeschele, Bernhard Wagner, Dan C. Mann. 
+*Animal Cognition*.
+2022
+
+
+**Abstract**: 
+Humans are an interesting subject of study in comparative cognition. 
+While humans have a lot of anecdotal and subjective knowledge about their own minds and behaviors, researchers tend not to study humans the way they study other species. 
+Instead, comparisons between humans and other animals tend to be based on either assumptions about human behavior and cognition, or very different testing methods.
+ Here we emphasize the importance of using insider knowledge about humans to form interesting research questions about animal cognition while simultaneously stepping back and treating humans like just another species as if one were an alien researcher. 
+This perspective is extremely helpful to identify what aspects of cognitive processes may be interesting and relevant across the animal kingdom.
+ Here we outline some examples of how this objective human-centric approach has helped us to move forward knowledge in several areas of animal acoustic cognition (rhythm, harmonicity, and vocal units).
+ We describe how this approach works, what kind of benefits we obtain, and how it can be applied to other areas of animal cognition.
+ While an objective human-centric approach is not useful when studying traits that do not occur in humans (e.g., magnetic spatial navigation), it can be extremely helpful when studying traits that are relevant to humans (e.g., communication). Overall, we hope to entice more people working in animal cognition to use a similar approach to maximize the benefits of being part of the animal kingdom while maintaining a detached and scientific perspective on the human species.
+
+
+##### Segments in Budgerigars
+<figure>
+  <img src="../img/budgie.jpg" title="budgerigar" alt="budgie looking at camera"style="width:50%;heigth:50%" >
+</figure>
+[**Universal principles underlying segmental structures in parrot song and human speech**](https://www.nature.com/articles/s41598-020-80340-y)  
+
+Dan C. Mann, W. Tecumseh Fitch, Hsiao-Wei Tu, Marisa Hoeschele. 
+*Scientific Reports.*
+2021. 
+
+**Abstract:** 
+Despite the diversity of human languages, certain linguistic patterns are remarkably consistent across human populations. 
+While syntactic universals receive more attention, there is stronger evidence for universal patterns in the inventory and organization of segments: units that are separated by rapid acoustic transitions which are used to build syllables, words, and phrases. 
+Crucially, if an alien researcher investigated spoken human language how we analyze non-human communication systems, many of the phonological regularities would be overlooked, as the majority of analyses in non-humans treat breath groups, or “syllables” (units divided by silent inhalations), as the smallest unit. 
+Here, we introduce a novel segment-based analysis that reveals patterns in the acoustic output of budgerigars, a vocal learning parrot species, that match universal phonological patterns well-documented in humans. 
+We show that song in four independent budgerigar populations is comprised of consonant- and vowel-like segments. 
+Furthermore, the organization of segments within syllables is not random. As in spoken human language, segments at the start of a vocalization are more likely to be consonant-like and segments at the end are more likely to be longer, quieter, and lower in fundamental frequency. 
+These results provide a new foundation for empirical investigation of language-like abilities in other species.  
+
+### Past Projects
+
+

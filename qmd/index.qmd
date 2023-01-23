@@ -1,0 +1,45 @@
+---
+title: "Dan C. Mann, PhD"
+image: ../img/me_penguin.jpg
+about: 
+  template: jolla  
+  image-shape: rounded
+  image-width: 30em 
+  links: 
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+Welcome to my website! 
+I'm a researcher whose work focuses on comparative vocal behavior. 
+That is, what are the similarities and differences in how animals - including humans! - produce, perceive, and use sounds. 
+My background is in linguistics, but I've been working in biology since 2015. 
+You can find out more about my research [here](research.qmd). 
+
+I also love data science and using computational tools to help us better understand our world. I work as a data science consultant in the [Fusani Lab](https://fusanilab.org/) and I teach statistics and R programming for the Department of Cognitive Biology at the University of Vienna.
+ 
+## Experience
+
+**Fusani Lab, University of Veterinary Medicine, Vienna** | Postdoctoral Researcher in Computational Biology | 2019 - Present
+
+**Acoustic Research Institute, Austrian Academy of Sciences** | Marie Curie Postdoctoral Fellow | 2021 - Present  
+
+## Teaching
+
+**Department of Cognitive Biology, University of Vienna** | Methods in Cognitive Biology: Statistics and R | 2019 - Present
+
+**English Program, Brooklyn College** | Linguistics/Sociolinguistics/Historical Linguisitics | 2013 - 2016
+
+## Education
+
+**The Graduate Center of the City Univerisity of New York** | New York, NY, USA  
+PhD in Linguistics | 2019
+
+**Teachers College, Columbia University** | New York, NY, USA  
+MA in Applied Linguistics | 2012
+
+**University of Central Arkansas** | Conway, AR, USA  
+BA in History & Spanish | 2008
+
+

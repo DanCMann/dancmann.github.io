@@ -3,18 +3,33 @@ project:
   output-dir: docs
 
 website:
-  title: "dancmann.github.io"
+  title: "Dan C. Mann, PhD"
   navbar:
+    background: primary
+    search: true
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "Home"
+        file: qmd/index.qmd
+      - text: "Academic Research"
+        file: qmd/research.qmd
+      - text: "Teaching"
+        file: qmd/teaching.qmd
+      - text: "Publications"
+        file: qmd/publications.qmd
+      - text: "CV"
+        file: qmd/cv.qmd
+      - text: "Personal"
+        file: qmd/personal.qmd
+  page-footer: 
+    left: "Copyright 2023, Dan C. Mann"
+    right: 
+      - icon: github
+        href: https://github.com/dancmann/
 
 format:
   html:
-    theme: cosmo
+    theme: cosmos  
     css: styles.css
     toc: true
-
 
 
