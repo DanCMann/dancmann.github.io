@@ -1,6 +1,6 @@
 ---
 title: "Dan C. Mann, PhD"
-image: ../img/me_penguin.jpg
+image: img/me_penguin.jpg
 about: 
   template: jolla  
   image-shape: rounded
@@ -15,7 +15,7 @@ Welcome to my website!
 I'm a researcher whose work focuses on comparative vocal behavior. 
 That is, what are the similarities and differences in how animals - including humans! - produce, perceive, and use sounds. 
 My background is in linguistics, but I've been working in biology since 2015. 
-You can find out more about my research [here](research.qmd). 
+You can find out more about my research [here](qmd/research.qmd). 
 
 I also love data science and using computational tools to help us better understand our world. I work as a data science consultant in the [Fusani Lab](https://fusanilab.org/) and I teach statistics and R programming for the Department of Cognitive Biology at the University of Vienna.
  

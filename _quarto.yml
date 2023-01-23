@@ -9,7 +9,7 @@ website:
     search: true
     left:
       - text: "Home"
-        file: qmd/index.qmd
+        file: index.qmd
       - text: "Academic Research"
         file: qmd/research.qmd
       - text: "Teaching"
@@ -20,6 +20,7 @@ website:
         file: qmd/cv.qmd
       - text: "Personal"
         file: qmd/personal.qmd
+ 
   page-footer: 
     left: "Copyright 2023, Dan C. Mann"
     right: 
