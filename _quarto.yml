@@ -16,10 +16,8 @@ website:
         file: qmd/teaching.qmd
       - text: "Publications"
         file: qmd/publications.qmd
-      - text: "CV"
-        file: qmd/cv.qmd
-      - text: "Personal"
-        file: qmd/personal.qmd
+      - text: "Blog"
+        file: qmd/posts.qmd
  
   page-footer: 
     left: "Copyright 2023, Dan C. Mann"
