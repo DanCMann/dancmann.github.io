@@ -2,3 +2,6 @@
 /_site/
 
 *.swp
+.Rproj.user
+.Rhistory
+
