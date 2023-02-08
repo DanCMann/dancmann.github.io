@@ -1,5 +1,5 @@
 ---
-title: "Blog"
+title: "Consistently Inconsistent"
 listing: 
   contents: posts
   type: grid
@@ -7,3 +7,6 @@ listing:
   categories: true
 ---
 
+A place for me to publish tutorials, random thoughts, half-baked ideas, and opinions. 
+My hope is that I'll used this space to organize my thoughts, get more familiar with new analytical tools and ideas, and to practice just getting ideas out in the world (i.e., accepting that something is just good enough). 
+Knowing me, I'll probably write on anything from bioacoustics, ecology, linguistics, Bayesian statistics, textual criticism of the Bible, the NBA, politics, etc. 

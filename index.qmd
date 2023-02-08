@@ -9,6 +9,8 @@ about:
     - icon: github
       text: Github
       href: https://github.com
+    - text: "{{< fa brands orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-6260-8615
 ---
 
 Welcome to my website! 

@@ -1,0 +1,48 @@
+
+```{r read-course-data, include = FALSE}
+pathway <- "~/Desktop/teaching/courses-taught.csv"
+teaching <- read.table(pathway, sep = ",", header = TRUE)
+teaching <- teaching |> 
+  dplyr::distinct(course.abbr, .keep_all = TRUE) |> 
+  dplyr::arrange(course.title)
+```
+
+
+
+## University of Vienna
+
+**Methods in Cognitive Biology (Statistics in R Module): 300349**  
+
+[Methods in Cognitive Biology website](https://dancmann.github.io/methods-in-cognitive-bio-website/index.html)
+
+I made this website as part of teaching a Methods in Cognitive Biology course. 
+I taught the statistics and programming sections. 
+
+## Brooklyn College
+```{r include=FALSE}
+i <- 1
+```
+
+**`r teaching$course.title[i]`**: `r teaching$course.abbr[i]`  
+<ins>Course Description</ins>:&nbsp;  `r teaching$description[i]` `r i=i+1`  
+
+**`r teaching$course.title[i]`**: `r teaching$course.abbr[i]`  
+<ins>Course Description</ins>:&nbsp;  `r teaching$description[i]` `r i=i+1`
+
+**`r teaching$course.title[i]`**: `r teaching$course.abbr[i]`  
+<ins>Course Description</ins>:&nbsp;  `r teaching$description[i]` `r i=i+1`
+
+**`r teaching$course.title[i]`**: `r teaching$course.abbr[i]`  
+<ins>Course Description</ins>:&nbsp;  `r teaching$description[i]` `r i=i+1`
+
+**`r teaching$course.title[i]`**: `r teaching$course.abbr[i]`  
+<ins>Course Description</ins>:&nbsp;  `r teaching$description[i]` `r i=i+1`
+
+**`r teaching$course.title[i]`**: `r teaching$course.abbr[i]`  
+<ins>Course Description</ins>:&nbsp;  `r teaching$description[i]` `r i=i+1`
+
+**`r teaching$course.title[i]`**: `r teaching$course.abbr[i]`  
+<ins>Course Description</ins>:&nbsp;  `r teaching$description[i]` `r i=i+1`
+
+**`r teaching$course.title[i]`**: `r teaching$course.abbr[i]`  
+<ins>Course Description</ins>:&nbsp;  `r teaching$description[i]` `r i=i+1`

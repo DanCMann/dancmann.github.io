@@ -24,6 +24,8 @@ website:
     right: 
       - icon: github
         href: https://github.com/dancmann/
+      - text: "{{< fa brands orcid >}}"
+        href: https://orcid.org/0000-0002-6260-8615
 
 format:
   html:
